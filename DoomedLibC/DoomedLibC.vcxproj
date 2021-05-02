@@ -162,6 +162,7 @@
   <ItemGroup>
     <ClCompile Include="DoomedLibC.cpp" />
     <ClCompile Include="pch.cpp" />
+    <ClCompile Include="ComplexMath.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
